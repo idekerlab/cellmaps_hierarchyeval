@@ -13,6 +13,9 @@ The Cell Maps Hierarchy Evaluation is part of the Cell Mapping Toolkit
         :target: https://cellmaps-hierarchyeval.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.15428405.svg
+        :target: https://zenodo.org/doi/10.5281/zenodo.15428405
+        :alt: Zenodo DOI badge
 
 
 
