@@ -13,6 +13,9 @@ The Cell Maps Hierarchy Evaluation is part of the Cell Mapping Toolkit
         :target: https://cellmaps-hierarchyeval.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.15428405.svg
+        :target: https://zenodo.org/doi/10.5281/zenodo.15428405
+        :alt: Zenodo DOI badge
 
 
 
@@ -131,6 +134,13 @@ Via Docker
 .. code-block::
 
    Coming soon...
+
+Cite
+-------
+
+If you find this tool useful, please cite:
+
+Lenkiewicz, J., Churas, C., Hu, M., Qian, G., Jain, M., Levinson, M. A., ... & Schaffer, L. V. (2025). Cell Mapping Toolkit: An end-to-end pipeline for mapping subcellular organization. Bioinformatics, 41(6), btaf205.
 
 Credits
 -------
